@@ -1,11 +1,11 @@
 # **PYTHON FOR DATA SCIENCE**
 ## **Table of Contents**
->[History](#history)  
+>### [History](#history-1)  
 >>[Early Years](#early-years-1991---2003)  
 >>[Emergence of DS-Specific Libraries](#emergence-of-ds-specific-libraries-2007---2014)  
 >>[Machine Learning Boom](#machine-learning-boom-2015---present)  
 
->[Strengths of Python](#strengths-of-python)  
+>### [Strengths of Python](#strengths-of-python-1)
 >>[Ease of Use and Readability](#1-ease-of-use-and-readability)  
 >>[Extensive Libraries and Frameworks](#2-extensive-libraries-and-frameworks)  
 >>[Community Support](#3-community-support)  
@@ -14,7 +14,7 @@
 >>[Performance and Scalability](#6-performance-and-scalability)  
 >>[Cross-Disciplinary Usability](#7-cross-disciplinary-usability)  
 
->[Primary Libraries and Tools](#primary-libraries-and-tools)  
+>### [Primary Libraries and Tools](#primary-libraries-and-tools-1)  
 >>[NumPy](#numpy---numerical-operations-and-array-manipulation)  
 >>[Pandas](#pandas---data-manipulation-and-analysis)  
 >>[Seaborn](#seaborn--data-visualization)  
@@ -24,7 +24,7 @@
 >>[Statsmodels](#statsmodels--statistical-modeling)  
 >>[SQLAlchemy](#sqlalchemy--database-interaction) 
 
->[How Python Compares to Other Languages](#how-python-compares-to-other-languages)  
+>### [How Python Compares to Other Languages](#how-python-compares-to-other-languages-1)  
 >>[R](#r)  
 >>[Julia](#julia)  
 >>[Scala](#scala-w-spark)  
